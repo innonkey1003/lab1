@@ -1,11 +1,11 @@
 # 연락처 관리 코드의 확장 
-# Lab 4-1은 현재 친구이름만 등록되어 있다.
+
 # (이름, 핸드폰 번호)를 튜플로 구성. 연락처는 튜플로 구성된 리스트를 사용한다. 
 # 리스트의 예제 data_list = [(홍길동, 010-1234-5678), (김철수, 010-2321-2321),...]
 
 # 친구 추가할 경우 먼저 같은 이름이 있는지 확인. 
 # 없을 경우, name및 phone을 문자열로 입력받은 뒤, data_list.append((name, phone))로 리스트에 추가 가능.
-# 출력 시 for name, phone in data_list: print(name) print(phone) 형태로 표현 가능. 소스파일 만들고 수행
+# 출력 시 for name, phone in data_list: print(name) print(phone) 형태로 표현 가능.
 
 menu = 0 
 friends = []
