@@ -11,4 +11,7 @@ Menu
 
 * * * 
 ### my favorite song
-[When I was your man - Bruno mars](https://youtu.be/ekzHIouo8Q4)
++ Bruno Mars
+ + [When I was your man](https://youtu.be/ekzHIouo8Q4)
++ Maroon 5
+ + [She will be loved](https://youtu.be/nIjVuRTm-dc)    
