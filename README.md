@@ -7,7 +7,7 @@ Menu
 3. 친구 삭제
 4. 정보 변경
 
-```
+```python
 코드 중 일부
 # (name, phone) 튜플 입력
  samename = False
